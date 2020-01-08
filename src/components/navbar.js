@@ -21,6 +21,9 @@ class Navbar extends Component {
                                 <a href="/api">API</a>
                             </li>
                             <li>
+                                <a href="/video" target="">视频</a>
+                            </li>
+                            <li>
                                 <a href="/about" target="">关于</a>
                             </li>
                         </ul>

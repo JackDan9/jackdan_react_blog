@@ -5,6 +5,7 @@ import Topic from './topic';
 import GetStart from './getstart';
 import API from './api';
 import About from './about';
+import Video from '../views/video';
 
 class Main extends Component {
   render() {
@@ -12,6 +13,7 @@ class Main extends Component {
       <div id="main">
         <Switch>
           <Route path="/" exact component={Topics}/>
+          <Route path='/video' component={Video}  />
           <Route path="/topic/:id" component={Topic}/>
           <Route path="/getstart" component={GetStart}/>
           <Route path="/api" component={API}/>

@@ -6,6 +6,8 @@ import registerServiceWorker from './registerServiceWorker';
 
 render(
     <BrowserRouter>
-    <App/>
-</BrowserRouter>, document.getElementById('react_container'));
+        <App/>
+    </BrowserRouter>, 
+    document.getElementById('react_container')
+);
 registerServiceWorker();
