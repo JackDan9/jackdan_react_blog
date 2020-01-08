@@ -46,25 +46,25 @@ class About extends Component {
                             <div className="about-friend-links">
                                 <h3>友情链接</h3>
                                 <a href="https://www.huoban.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//dn-cnode.qbox.me/Ftmw28ed0I_rir7YYz3c_jVPkCGx"/>
+                                    <img src="//dn-cnode.qbox.me/Ftmw28ed0I_rir7YYz3c_jVPkCGx" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="http://100offer.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//dn-cnode.qbox.me/FmU1Ik57z6wrl9JDTNdcYBTDetFq"/>
+                                    <img src="//dn-cnode.qbox.me/FmU1Ik57z6wrl9JDTNdcYBTDetFq" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="https://www.teambition.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//dn-cnode.qbox.me/FkMR_SqpCp4Q0eDIaWrQlALiXdmP"/>
+                                    <img src="//dn-cnode.qbox.me/FkMR_SqpCp4Q0eDIaWrQlALiXdmP" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="http://yunzhihui.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//dn-cnode.qbox.me/Fq2cV_14IFHwelZ-6jey42Z0-eOR"/>
+                                    <img src="//dn-cnode.qbox.me/Fq2cV_14IFHwelZ-6jey42Z0-eOR" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="http://www.jiguang.cn/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//dn-cnode.qbox.me/FijGJbij9GObh5AXw-Vyu5LGn08a"/>
+                                    <img src="//dn-cnode.qbox.me/FijGJbij9GObh5AXw-Vyu5LGn08a" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="http://segmentfault.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//o4j806krb.qnssl.com/public/images/temp/sf.png"/>
+                                    <img src="//o4j806krb.qnssl.com/public/images/temp/sf.png" alt="jackdan react blog" />
                                 </a>{`\n`}
                                 <a href="http://ionichina.com/" target="_blank" rel="noopener noreferrer">
-                                    <img src="//o4j806krb.qnssl.com/public/images/temp/ionichina.png"/>
+                                    <img src="//o4j806krb.qnssl.com/public/images/temp/ionichina.png" alt="jackdan react blog" />
                                 </a>{`\n`}
                             </div>
                             <div className="">
