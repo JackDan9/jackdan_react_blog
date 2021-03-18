@@ -5,7 +5,7 @@
   "author": "jackdan<13027710816@163.com>",
   "dependencies": {
     "antd": "^4.14.0",
-    "axios": "^0.17.0",
+    "axios": "^0.21.1",
     "echarts": "^5.0.2",
     "mockjs": "^1.1.0",
     "prop-types": "^15.7.2",
