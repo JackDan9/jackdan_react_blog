@@ -1,5 +1,6 @@
 ﻿import React, {Component} from 'react';
 
+
 class Navbar extends Component {
     render() {
         return (
@@ -7,9 +8,11 @@ class Navbar extends Component {
                 <div className="navbar-inner">
                     <div className="container">
                         <a className="brand" href="/">
-                            <img src="//o4j806krb.qnssl.com/public/images/cnodejs_light.svg" alt="brand"/>
+                            <img src="../../assets/images/cnodejs_light.svg" alt="brand" />
                         </a>
-                        <form id="search_form" className="navbar-search" action="/search"><input type="text" id="q" name="q" className="search-query span3" value=""/></form>
+                        <form id="search_form" className="navbar-search" action="/search">
+                            <input type="text" id="q" name="q" className="search-query span3" value=""/>
+                        </form>
                         <ul className="nav pull-right">
                             <li>
                                 <a href="/">首页</a>
